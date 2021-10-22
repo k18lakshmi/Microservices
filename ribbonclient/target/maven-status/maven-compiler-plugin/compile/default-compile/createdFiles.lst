@@ -1,0 +1,3 @@
+com\tcs\ribbonclient\RibbonclientApplication.class
+com\tcs\ribbonclient\config\RibbonConfiguration.class
+com\tcs\ribbonclient\controller\MyClientSideController.class
